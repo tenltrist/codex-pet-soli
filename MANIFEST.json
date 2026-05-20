@@ -1,0 +1,86 @@
+{
+  "repo": "soli-public-repo",
+  "generated_at": "2026-05-20T10:27:04.125117+00:00",
+  "files": [
+    {
+      "path": ".gitignore",
+      "size_bytes": 49,
+      "sha256": "8903fbdc1f7d7ad38df6ad7175a2f70d3e597d148d5a95e4f4abafe9d5ec3669"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "size_bytes": 371,
+      "sha256": "f140f8f175ac16da144309f6c313e064194bcbdc026edad075d0cd25b40d8d81"
+    },
+    {
+      "path": "LICENSE-SOLI.md",
+      "size_bytes": 705,
+      "sha256": "e0917ea1c4dd3eb15f317111bf3be86f467eef4f39eefceda25e333979cc9bf1"
+    },
+    {
+      "path": "NOTICE.md",
+      "size_bytes": 376,
+      "sha256": "a4939105175d8e2ee75074b7ef0ef8332381da79a01816085b3f6b4e181bd41f"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 1822,
+      "sha256": "ce8424d75bdcbd87e97ec216b52951a134fb0eda1e0230439ae83ed580d79790"
+    },
+    {
+      "path": "README.zh.md",
+      "size_bytes": 1764,
+      "sha256": "b4433dc9ed2fe13859dd57ad0bd44f2b8817765b6939ec179213e119937202f8"
+    },
+    {
+      "path": "assets/contact-sheet.png",
+      "size_bytes": 5598447,
+      "sha256": "5005cf542dd1bb0a2f09ba16e1ef99a85c030e9476c98a16bce14a39a5527ea9"
+    },
+    {
+      "path": "assets/pet.json",
+      "size_bytes": 261,
+      "sha256": "35a80687e4dfc944fab9e0e729e7969b0ca98c556e5a44b97d83261ab5d1b062"
+    },
+    {
+      "path": "assets/spritesheet.webp",
+      "size_bytes": 1516848,
+      "sha256": "ad85512c204795950be31e51154bbd28a6cf884704038fef493b23d07d50d2c4"
+    },
+    {
+      "path": "docs/CREATION_WORKFLOW.zh.md",
+      "size_bytes": 9716,
+      "sha256": "a3e1760b96586618d6f20e37b237c0dcc14412aa711c19b79f915fe3d3cd056e"
+    },
+    {
+      "path": "docs/IP_REGISTRATION_AND_ANTI_COPY.zh.md",
+      "size_bytes": 9642,
+      "sha256": "c5316400926b4c4f249464947a5a67c0356827228a3be98b3a8e07efd898f37e"
+    },
+    {
+      "path": "previews/review.gif",
+      "size_bytes": 244734,
+      "sha256": "3e50a127888d4a6e5785dd37ebb76090dd05c47e28a095d03593163672a71301"
+    },
+    {
+      "path": "previews/running.gif",
+      "size_bytes": 191346,
+      "sha256": "936e9eaf984216e3f9322cb23fd92fcb45d718d739ff4256814cc28df25ca802"
+    },
+    {
+      "path": "release/RELEASE_NOTES.zh.md",
+      "size_bytes": 916,
+      "sha256": "443d77ae21d5c739849cb061cfefce610dae63b5d07ccda88a9fb939ddcd0c65"
+    },
+    {
+      "path": "release/soli-eclipse-clean6.zip",
+      "size_bytes": 7510569,
+      "sha256": "d6ad37ecd8da1ecba10edc653299cf1e15d9c06f7d119e1fab4422126e582b34"
+    },
+    {
+      "path": "scripts/install-local.sh",
+      "size_bytes": 286,
+      "sha256": "2f0282866af8fb34e4d2479fcc5dc120734031eef0bd7958dbb196f33af81c13"
+    }
+  ]
+}
