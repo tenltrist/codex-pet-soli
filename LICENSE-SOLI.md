@@ -1,6 +1,6 @@
 # Soli / 朔璃 Character Asset License
 
-© 2026 trist. All rights reserved.
+© 2026 the Soli rights holder. All rights reserved.
 
 ## Allowed
 

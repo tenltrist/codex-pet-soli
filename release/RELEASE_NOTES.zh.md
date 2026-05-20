@@ -27,7 +27,7 @@ cp pet.json spritesheet.webp ~/.codex/pets/soli/
 
 ## 版权
 
-朔璃 / Soli 及相关角色设计、图像、动画、视觉识别与设定文本为 trist 的原创 IP。  
-© 2026 trist. All rights reserved.
+朔璃 / Soli 及相关角色设计、图像、动画、视觉识别与设定文本为 the Soli rights holder 的原创 IP。  
+© 2026 the Soli rights holder. All rights reserved.
 
 允许个人桌面使用；未经书面授权，禁止转载打包、二次售卖、商业使用、模型训练、NFT 铸造或用于第三方产品。

@@ -60,6 +60,6 @@ See [LICENSE-SOLI.md](LICENSE-SOLI.md).
 
 ## Rights
 
-Soli / 朔璃 and related character designs, sprites, animations, visual identity, and lore are original IP by trist.
+Soli / 朔璃 and related character designs, sprites, animations, visual identity, and lore are original IP by the Soli rights holder.
 
-© 2026 trist. All rights reserved.
+© 2026 the Soli rights holder. All rights reserved.

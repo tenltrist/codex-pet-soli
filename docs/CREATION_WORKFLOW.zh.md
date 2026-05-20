@@ -1,7 +1,7 @@
 # 朔璃 / Soli 创作与制作流程档案
 
 更新时间：2026-05-20  
-项目路径：`/Users/trist/Documents/Codex/个人主页/pets/moonwitch`
+项目路径：`/Users/the Soli rights holder/<local-workspace>/pets/moonwitch`
 
 ## 1. 定名
 
@@ -85,11 +85,11 @@
 
 关键资产：
 
-- 当前安装 spritesheet：`/Users/trist/.codex/pets/moonwitch/spritesheet.webp`
-- clean6 spritesheet：`/Users/trist/Documents/Codex/个人主页/pets/moonwitch/eclipse-edition-v0-clean6/final/spritesheet.webp`
-- clean6 contact sheet：`/Users/trist/Documents/Codex/个人主页/pets/moonwitch/eclipse-edition-v0-clean6/qa/contact-sheet.png`
-- 工作态 GIF：`/Users/trist/Documents/Codex/个人主页/pets/moonwitch/eclipse-edition-v0-clean6/qa/previews/running.gif`
-- 证据清单：`/Users/trist/Documents/Codex/个人主页/pets/moonwitch/ip-evidence/soli-evidence-manifest.json`
+- 当前安装 spritesheet：`/Users/the Soli rights holder/.codex/pets/moonwitch/spritesheet.webp`
+- clean6 spritesheet：`/Users/the Soli rights holder/<local-workspace>/pets/moonwitch/eclipse-edition-v0-clean6/final/spritesheet.webp`
+- clean6 contact sheet：`/Users/the Soli rights holder/<local-workspace>/pets/moonwitch/eclipse-edition-v0-clean6/qa/contact-sheet.png`
+- 工作态 GIF：`/Users/the Soli rights holder/<local-workspace>/pets/moonwitch/eclipse-edition-v0-clean6/qa/previews/running.gif`
+- 证据清单：`/Users/the Soli rights holder/<local-workspace>/pets/moonwitch/ip-evidence/soli-evidence-manifest.json`
 
 clean6 主要修复：
 

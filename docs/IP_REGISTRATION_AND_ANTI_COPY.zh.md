@@ -184,16 +184,16 @@
 ## 7. 推荐版权声明草案
 
 ```text
-Soli / 朔璃 and related character designs, sprites, animations, visual identity, and lore are original IP by trist.
-© 2026 trist. All rights reserved.
+Soli / 朔璃 and related character designs, sprites, animations, visual identity, and lore are original IP by the Soli rights holder.
+© 2026 the Soli rights holder. All rights reserved.
 Personal desktop use is allowed. Redistribution, resale, commercial use, model training, minting as NFT, or use in third-party products is prohibited without written permission.
 ```
 
 中文：
 
 ```text
-朔璃 / Soli 及其相关角色设计、图像、动画、视觉识别与设定文本为 trist 的原创 IP。
-© 2026 trist. 保留所有权利。
+朔璃 / Soli 及其相关角色设计、图像、动画、视觉识别与设定文本为 the Soli rights holder 的原创 IP。
+© 2026 the Soli rights holder. 保留所有权利。
 允许个人桌面使用；未经书面授权，禁止转载打包、二次售卖、商业使用、模型训练、NFT 铸造或用于第三方产品。
 ```
 
